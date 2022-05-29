@@ -1,7 +1,7 @@
 # Movie React Native App
 
-Steps to run:
-`yarn install`
+Steps to run: \
+`yarn install` \
 `yarn web`
 
 
