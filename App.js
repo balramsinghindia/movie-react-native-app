@@ -191,6 +191,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    backgroundColor: '#000',
+    color: '#fff',
   },
   movieBlock: {
     display: 'flex',
@@ -205,14 +207,17 @@ const styles = StyleSheet.create({
   movieDescription: {
     padding: '16px',
     gridColumn: 'span 2 / span 2',
+    color: '#fff',
   },
   movieDescriptionHeading: {
     fontSize: '2rem',
     lineHeight: '1',
+    color: '#fff',
   },
   movieDetails: {
     fontSize: '16px',
     marginBottom: '4px',
+    color: '#fff',
   },
   watchTrailer: {
     fontSize: '1rem',
@@ -222,7 +227,8 @@ const styles = StyleSheet.create({
     paddingRight: '16px',
     paddingTop: '8px',
     paddingBottom: '8px',
-    textAlign: 'center'
+    textAlign: 'center',
+    color: '#fff',
   },
   tinyLogo: {
     width: '435px',
@@ -251,6 +257,7 @@ const styles = StyleSheet.create({
     fontSize: '20px',
     marginTop: '10px',
     marginBottom: '10px',
+    color: '#fff',
   },
   cinema: {
     marginBottom: '18px',
@@ -290,7 +297,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: '20px',
-    color: '#000',
+    color: '#fff',
     cursor: 'pointer',
   }
 
