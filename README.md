@@ -47,3 +47,7 @@ Screenshot: \
 - Write Movies API in Next JS
 - Write unit test cases
 - Move React components into separate files
+
+
+![screencapture-localhost-3000-2022-05-30-03_27_45 (1)](https://user-images.githubusercontent.com/2870345/170884710-89220b22-6ef1-4f9c-b289-fd02d423ee24.png)
+
