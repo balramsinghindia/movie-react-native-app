@@ -5,6 +5,7 @@ Steps to run: \
 `yarn web`
 
 
+Screenshot: \
 ![screencapture-localhost-19006-2022-05-30-03_50_01](https://user-images.githubusercontent.com/2870345/170884483-9485c67e-a9ce-43ec-b6ac-6d3efce0dbd4.png)
 
 
