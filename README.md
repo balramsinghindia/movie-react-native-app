@@ -16,7 +16,7 @@ Screenshot: \
 - Display a list of movies
 - The first movie is selected by default
 - Users can change movies by clicking on the movie name list.
-- Users can reserve a seat from the right side section
+- Users can reserve a seat from the second section
 - After the seat reservation, the price is displayed.
 
 ### Todo:
